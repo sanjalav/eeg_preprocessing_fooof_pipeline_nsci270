@@ -1,5 +1,5 @@
-% Author: Sanjala Vasudev
-% Date: 11.11.2026
+% Author: Athena Stein edited by Sanjala Vasudev
+% Date: 11.18.2026
 % FOOOF Script for NSCI 270 Project
 % SSDE resting-state data
 
